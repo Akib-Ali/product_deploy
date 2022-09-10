@@ -10,7 +10,7 @@
     width: 10px;
 }
 ::-webkit-scrollbar-track {
-    background: #962626;
+    background: green;
 }
 ::-webkit-scrollbar-thumb {
     background: rgb(192, 154, 154);
@@ -62,7 +62,7 @@
   transition: all 0.3s ease;
 }
 .menu-list li a:hover{
-  color: #007bff;
+  color: palevioletred;
 }
 .banner{
   background: url("banner.jpg") no-repeat;
