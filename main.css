@@ -186,6 +186,10 @@
 
 }
 
+.card:hover{
+  zoom: normal;
+}
+
 
 img{
     height: 300px;
